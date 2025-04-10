@@ -1,0 +1,1 @@
+Hi i am gov i and try to add new file in Sample repository to practice how use Github, and by aading this file i will learn how merge the remote repo to the local repo .
